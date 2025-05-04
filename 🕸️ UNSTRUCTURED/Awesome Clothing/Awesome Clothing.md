@@ -1,11 +1,24 @@
 ---
-aliases: 
-tags:
-  - opinionated
+permalink:
+title:
+aliases: []
+tags: [opinionated]
 publish: true
 date created: Monday, September 2nd 2024, 6:53 pm
-date modified: Saturday, September 7th 2024, 9:08 pm
+date modified: Saturday, May 3rd 2025, 9:19 pm
 ---
+
+# Practical Pants
+
+- [vertx.com > Tactical Pants | Vertx Official Site](https://vertx.com/collections/mens-pants)
+- [tacticalworldstore.com > TWS USA](https://tacticalworldstore.com/)
+- 
+
+# Functional Shoes
+
+- Dress shoes - https://www.colehaan.com/mens-shoes-dress?start=0&sz=80
+- Lightweight parkour and fitness - https://feiyue-shoes.com/
+- 
 
 # Techwear & Gorpcore
 
