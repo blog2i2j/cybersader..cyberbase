@@ -96,8 +96,16 @@ date modified: Wednesday, May 7th 2025, 8:39 pm
 
 # Tennessee 
 
+- Cummins Falls - Cookeville
+	- [Cummins Falls - Cookeville](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- https://tnstateparks.com/parks/cummins-falls
+	- 
 - Compression Falls?
-- Great spot - survey your jumps before doing them though - [The Sinks in the Smoky Mountains - Review w/ Photos](https://smokymountains.com/park/things-to-do/the-sinks) 
+- Rutledge Falls - Tullahoma
+	- [Rutledge Falls - Tullahoma](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- 
+- The Sinks
+	- Great spot - survey your jumps before doing them though - [The Sinks in the Smoky Mountains - Review w/ Photos](https://smokymountains.com/park/things-to-do/the-sinks) 
 - Fort Dickerson - Augusta Quarry
 - Percy Priest Lake
 	- [reddit.com > Percy Priest Lake Camping - Primitive With Canoe Access?](https://www.reddit.com/r/nashville/comments/p6b7bk/percy_priest_lake_camping_primitive_with_canoe/)
