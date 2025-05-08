@@ -5,7 +5,7 @@ aliases: [Cliff Jumping Spots]
 tags: []
 publish: true
 date created: Saturday, May 25th 2024, 1:42 pm
-date modified: Wednesday, May 7th 2025, 8:39 pm
+date modified: Wednesday, May 7th 2025, 9:43 pm
 ---
 
 # Kansas
@@ -96,9 +96,14 @@ date modified: Wednesday, May 7th 2025, 8:39 pm
 
 # Tennessee 
 
+- Burgess Falls
+	- [tripadvisor.com > Burgess Falls State Park (2025) - All You Need to Know BEFORE You Go (with Reviews)](https://www.tripadvisor.com/Attraction_Review-g55351-d207292-Reviews-Burgess_Falls_State_Park-Sparta_Tennessee.html)
 - Cummins Falls - Cookeville
 	- [Cummins Falls - Cookeville](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
 	- https://tnstateparks.com/parks/cummins-falls
+- Center Hill Lake
+	- [youtube.com > Huge cliff jump- center hill lake 2012- little hurricane co](https://www.youtube.com/watch?v=QIHgkSYkebg)
+	- [dekalbtennessee.com > Center Hill Lake](https://www.dekalbtennessee.com/center-hill-lake.html)
 	- 
 - Compression Falls?
 - Rutledge Falls - Tullahoma
@@ -125,16 +130,23 @@ date modified: Wednesday, May 7th 2025, 8:39 pm
 	- hole in wall island TN percy priest
 		- [westcoastpaddler.com > Hole-in-the-Wall Island](https://www.westcoastpaddler.com/community/threads/hole-in-the-wall-island-percy-priest-lake-tennessee.7178/)
 	- [Recommend this spot instead if you like cliff jumping. Best spot on Percy priest lake. Dropped pin https://goo.gl/maps/atSddcGtXikGkqEu6](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
+	- [wordpress.com > Where to go cliff jumping in Nashville](https://adventureswithsev.wordpress.com/2021/03/25/where-to-go-cliff-jumping-in-nashville/)
 	- Elm Hill RV
 		- [The cliffs at Elm Hill RV resort are open and active. We anchored near there last weekend and my kids (teens) swam over to jump off them. They aren't that high. And I am not aware of any deaths at this spot. It's ~ 90ft deep right there. To get there take 40W past the airport to Stewart's Ferry Pike. Take a right off the interstate and Elm Hill is 1-2 miles on the left. Take the second Elm Hill entrance for the cliffs. There is a more dangerous spot across the lake. Don't go to that one.](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
 	- [Elm Hill or Long Hunter state park? Both are on Percy Priest](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
 	- 
-- Twisting Falls
+- Twisted Falls
 	- [Twisting Falls is located on the Elk River in Carter County, TN. The falls can be found in a canyon in the Cherokee National Forest. It has a wide mouth and drops 25-35 feet. To get to the falls, it’s a short but very steep hike. GPS coordinates to the area are Latitude 36.2298453 and Longitude -81.9751174.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
+	- [youtube.com > Twisted Falls/Compression Falls Cliff Jumping](https://www.youtube.com/watch?v=5tMiDQ6qOYI)
+	- 
 - Pioneer Landing
 	- [Pioneer Landing is located on Watauga Lake and is the easternmost marina. Pioneer Landing has also been referred to as “Little Boone” because the lake has so many visitors come from Boone, North Carolina.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
-
+- Foster Falls
+	- [Foster Falls, Tennessee](https://freerangeamerican.us/5-cliff-jumping-spots/ "5 Cliff-Jumping Spots That Even Influencers Hesitate To Recommend")
+	- [tripadvisor.com > Foster Falls (2025) - All You Need to Know BEFORE You Go (with Reviews)](https://www.tripadvisor.com/Attraction_Review-g55212-d207158-Reviews-Foster_Falls-Monteagle_Tennessee.html)
+	- [tnvacation.com > Foster Falls Recreation Area](https://www.tnvacation.com/local/sequatchie-foster-falls-recreation-area)
 	- 
+
 # Kentucky
 
 - . 
