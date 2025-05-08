@@ -103,19 +103,38 @@ date modified: Wednesday, May 7th 2025, 8:39 pm
 - Compression Falls?
 - Rutledge Falls - Tullahoma
 	- [Rutledge Falls - Tullahoma](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- https://www.onlyinyourstate.com/nature/tennessee/waterfall-hike-rutledge-falls-trail-tn
+- Rock Island State Park - Rock Island
+	- https://tnstateparks.com/parks/rock-island
+	- Twin falls
+- Blue Hole Falls
+	- [Blue Hole Falls - Carter County](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- 
+- Narrows of Harpeth - Kingston Springs
+	- https://tnstateparks.com/parks/harpeth-river
 	- 
 - The Sinks
 	- Great spot - survey your jumps before doing them though - [The Sinks in the Smoky Mountains - Review w/ Photos](https://smokymountains.com/park/things-to-do/the-sinks) 
-- Fort Dickerson - Augusta Quarry
+- Fort Dickerson - Augusta Quarry - Knoxville
+- Fall Creek Falls - Spencer
+	- [Fall Creek Falls - Spencer](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- [Within this park, one of the best places to swim is by Cane Creek Falls. Check out this video by Adventuring in the Moment to see it:](https://www.onlyinyourstate.com/nature/tennessee/tn-swimming-holes "10 Best Swimming Holes In Tennessee")
+	- 
 - Percy Priest Lake
 	- [reddit.com > Percy Priest Lake Camping - Primitive With Canoe Access?](https://www.reddit.com/r/nashville/comments/p6b7bk/percy_priest_lake_camping_primitive_with_canoe/)
 	- hole in wall island TN percy priest
 		- [westcoastpaddler.com > Hole-in-the-Wall Island](https://www.westcoastpaddler.com/community/threads/hole-in-the-wall-island-percy-priest-lake-tennessee.7178/)
+	- [Recommend this spot instead if you like cliff jumping. Best spot on Percy priest lake. Dropped pin https://goo.gl/maps/atSddcGtXikGkqEu6](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
+	- Elm Hill RV
+		- [The cliffs at Elm Hill RV resort are open and active. We anchored near there last weekend and my kids (teens) swam over to jump off them. They aren't that high. And I am not aware of any deaths at this spot. It's ~ 90ft deep right there. To get there take 40W past the airport to Stewart's Ferry Pike. Take a right off the interstate and Elm Hill is 1-2 miles on the left. Take the second Elm Hill entrance for the cliffs. There is a more dangerous spot across the lake. Don't go to that one.](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
+	- [Elm Hill or Long Hunter state park? Both are on Percy Priest](https://www.reddit.com/r/nashville/comments/ojtonr/anyone_know_where_this_is_specifically_know_cliff/ "Anyone know where this is specifically? know cliff jumping spots? : r/nashville")
+	- 
 - Twisting Falls
 	- [Twisting Falls is located on the Elk River in Carter County, TN. The falls can be found in a canyon in the Cherokee National Forest. It has a wide mouth and drops 25-35 feet. To get to the falls, it’s a short but very steep hike. GPS coordinates to the area are Latitude 36.2298453 and Longitude -81.9751174.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
 - Pioneer Landing
 	- [Pioneer Landing is located on Watauga Lake and is the easternmost marina. Pioneer Landing has also been referred to as “Little Boone” because the lake has so many visitors come from Boone, North Carolina.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
-- 
+
+	- 
 # Kentucky
 
 - . 
