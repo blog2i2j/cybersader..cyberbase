@@ -1,10 +1,11 @@
 ---
+title:
 permalink:
 aliases: [Cliff Jumping Spots]
 tags: []
 publish: true
 date created: Saturday, May 25th 2024, 1:42 pm
-date modified: Sunday, December 22nd 2024, 2:26 pm
+date modified: Wednesday, May 7th 2025, 8:39 pm
 ---
 
 # Kansas
@@ -89,39 +90,52 @@ date modified: Sunday, December 22nd 2024, 2:26 pm
 # Ohio
 
 - Quarry park
+- Slip'n'fly
+	- Wish they still did this - discontinued after the Rona - there's one near Tijuana
+	- [SlipnFly Clip](https://www.facebook.com/reel/1122476205650179)****
 
-# Kentucky, Tennessee 
+# Tennessee 
 
 - Compression Falls?
+- Great spot - survey your jumps before doing them though - [The Sinks in the Smoky Mountains - Review w/ Photos](https://smokymountains.com/park/things-to-do/the-sinks) 
+- Fort Dickerson - Augusta Quarry
+- Percy Priest Lake
+	- [reddit.com > Percy Priest Lake Camping - Primitive With Canoe Access?](https://www.reddit.com/r/nashville/comments/p6b7bk/percy_priest_lake_camping_primitive_with_canoe/)
+	- hole in wall island TN percy priest
+		- [westcoastpaddler.com > Hole-in-the-Wall Island](https://www.westcoastpaddler.com/community/threads/hole-in-the-wall-island-percy-priest-lake-tennessee.7178/)
+- Twisting Falls
+	- [Twisting Falls is located on the Elk River in Carter County, TN. The falls can be found in a canyon in the Cherokee National Forest. It has a wide mouth and drops 25-35 feet. To get to the falls, it’s a short but very steep hike. GPS coordinates to the area are Latitude 36.2298453 and Longitude -81.9751174.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
+- Pioneer Landing
+	- [Pioneer Landing is located on Watauga Lake and is the easternmost marina. Pioneer Landing has also been referred to as “Little Boone” because the lake has so many visitors come from Boone, North Carolina.](http://thirstforadrenaline.com/adventures/cliff-diving/cliff-diving-in-tennessee/ "Cliff Diving in Tennessee – Thirst for Adrenaline")
+- 
+# Kentucky
 
-# Out of Indiana - U.S.
+- . 
 
-- Ohio
-	- Slip'n'fly
-		- Wish they still did this - discontinued after the Rona - there's one near Tijuana
-		- [SlipnFly Clip](https://www.facebook.com/reel/1122476205650179)
-- Tennessee 
-	- Great spot - survey your jumps before doing them though - [The Sinks in the Smoky Mountains - Review w/ Photos](https://smokymountains.com/park/things-to-do/the-sinks) 
-	- Fort Dickerson - Augusta Quarry
-	- 
-- Hawaii - Oahu
+# Hawaii
+
+- Oahu
 	- China Wall - fun
 		- If it's winter, DO NOT jump in if you aren't athletic and good with your movement
 	- Waimea Beach
 		- Great for the summer
 		- Dangerous waves in the winter - "break neck beach"
 	- Spitting Caves - must be super athletic, would only do in summer if you value your life
-- California
-	- Rainbow Pools - sketch, but it's aight
-- Texas
-	- Lake Travis
-	- Lake Whitney
-	- McKinney Falls State Park
-	- Jacobs Well
-	- Inks Lake State Park
-	- Tonkawa Falls City Park
-	- Possum Kingdom Lake
-	- Pedernales Falls State Park
-	- Pace Bend Park
-	- Krause Springs
-	- 
+
+# California
+
+- Rainbow Pools - sketch, but it's ight
+
+# Texas
+
+- Lake Travis
+- Lake Whitney
+- McKinney Falls State Park
+- Jacobs Well
+- Inks Lake State Park
+- Tonkawa Falls City Park
+- Possum Kingdom Lake
+- Pedernales Falls State Park
+- Pace Bend Park
+- Krause Springs
+- 
