@@ -33,3 +33,8 @@ date modified: Monday, April 29th 2024, 11:04 am
 - To Rank 
 	- 
 - Settings #tier-list
+
+--- 
+
+# Finance Tech Related to Privacy
+
