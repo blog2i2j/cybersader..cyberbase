@@ -19,6 +19,7 @@ date modified: Sunday, April 20th 2025, 1:33 pm
 - physics of diving twisting
 - full Olympic diving at physics
 - cat twist
+- [si.com > A NEW TWIST IN DIVING](https://vault.si.com/vault/1988/08/15/a-new-twist-in-diving-chinas-ancient-passion-for-acrobatics-has-helped-make-its-divers-like-world-champ-gao-min-left-no1)
 - [Olympic Diving Physics — FromTheLabBench](https://www.fromthelabbench.com/from-the-lab-bench-science-blog/olympic-diving-physics "Olympic Diving Physics — FromTheLabBench")
 - [Olympic Physics: Diving and the Moment of Inertia | WIRED](https://www.wired.com/2012/08/diving-and-the-moment-of-inertia/ "Olympic Physics: Diving and the Moment of Inertia | WIRED")
 - [The physics of the perfect dive - Exeter Science Centre](https://exetersciencecentre.org/projects/nibbles/diving/ "The physics of the perfect dive - Exeter Science Centre")
