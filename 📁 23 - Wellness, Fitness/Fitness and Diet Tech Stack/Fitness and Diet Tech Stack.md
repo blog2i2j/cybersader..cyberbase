@@ -25,6 +25,7 @@ date modified: Saturday, August 16th 2025, 4:08 pm
 - [endurain.com > Endurain documentation](https://docs.endurain.com/)
 - [github.com > IgnisDa/ryot: Roll your own tracker!](https://github.com/IgnisDa/ryot)
 - [wger.de > Features - wger](https://wger.de/en/software/features)
+- [goldencheetah.org > GoldenCheetah](https://www.goldencheetah.org/)
 - 
 
 # Smart Health Tracking
