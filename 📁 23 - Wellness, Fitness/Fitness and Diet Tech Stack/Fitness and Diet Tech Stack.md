@@ -5,7 +5,7 @@ aliases: []
 tags: []
 publish: true
 date created: Sunday, November 10th 2024, 2:29 pm
-date modified: Saturday, August 16th 2025, 9:39 pm
+date modified: Saturday, August 16th 2025, 10:28 pm
 ---
 
 - [ ] Content on staying healthy in an IT job ➕ 2024-11-10
@@ -28,6 +28,9 @@ date modified: Saturday, August 16th 2025, 9:39 pm
 - [goldencheetah.org > GoldenCheetah](https://www.goldencheetah.org/)
 - [zwift.com > The Indoor Cycling App for Smart Trainers & Bikes](https://www.zwift.com/)
 	- [zwift.com > Compatible Trainers](https://support.zwift.com/en_us/compatible-trainers-BkPlq7gr)
+
+- [artofmanliness.com > A Guide to the Biggest Thing Missing From Your Fitness Routine: Zone 2 Training](https://www.artofmanliness.com/health-fitness/fitness/zone-2-training/)
+- 
 
 # Smart Health Tracking
 
