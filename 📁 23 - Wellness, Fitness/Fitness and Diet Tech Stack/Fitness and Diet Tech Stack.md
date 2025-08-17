@@ -5,7 +5,7 @@ aliases: []
 tags: []
 publish: true
 date created: Sunday, November 10th 2024, 2:29 pm
-date modified: Saturday, August 16th 2025, 10:28 pm
+date modified: Saturday, August 16th 2025, 10:42 pm
 ---
 
 - [ ] Content on staying healthy in an IT job ➕ 2024-11-10
@@ -35,6 +35,11 @@ date modified: Saturday, August 16th 2025, 10:28 pm
 - [mywhoosh.com > Best Virtual Cycling App | Free Indoor Cycling App](https://mywhoosh.com/)
 - [trainerroad.com > Get Faster with TrainerRoad](https://www.trainerroad.com/)
 - [wahoofitness.com > What is The SYSTM Training App?](https://www.wahoofitness.com/blog/what-is-systm/)
+- [garmin.com > Garmin Connect](https://connect.garmin.com/)
+- [urbandroid.org > SleepAsAndroid](https://sleep.urbandroid.org/)
+- [amazfit.com > Zepp App](https://us.amazfit.com/pages/zepp-app)
+	- [zepp.com > Zepp Health | Empowering Health, Inspiring Joy](https://www.zepp.com/)
+- [macrofactorapp.com > MacroFactor](https://macrofactorapp.com/)
 - 
 
 - [artofmanliness.com > A Guide to the Biggest Thing Missing From Your Fitness Routine: Zone 2 Training](https://www.artofmanliness.com/health-fitness/fitness/zone-2-training/)
