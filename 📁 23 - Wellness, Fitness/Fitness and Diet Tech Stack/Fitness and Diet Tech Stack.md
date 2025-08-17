@@ -28,6 +28,14 @@ date modified: Saturday, August 16th 2025, 10:28 pm
 - [goldencheetah.org > GoldenCheetah](https://www.goldencheetah.org/)
 - [zwift.com > The Indoor Cycling App for Smart Trainers & Bikes](https://www.zwift.com/)
 	- [zwift.com > Compatible Trainers](https://support.zwift.com/en_us/compatible-trainers-BkPlq7gr)
+- [qzfitness.com > QZ Fitness – The Smarter Way To Work Out At Home™](https://www.qzfitness.com/)
+	- [github.com > cagnulein/qdomyos-zwift: Zwift bridge for smart treadmills and bike/cyclette](https://github.com/cagnulein/qdomyos-zwift)
+- [google.com > Wahoo: Ride, Run, Train - Apps on Google Play](https://play.google.com/store/apps/details?id=com.wahoofitness.fitness&hl=en_US)
+- [trainerday.com > TrainerDay - Cycling App](https://trainerday.com/)
+- [mywhoosh.com > Best Virtual Cycling App | Free Indoor Cycling App](https://mywhoosh.com/)
+- [trainerroad.com > Get Faster with TrainerRoad](https://www.trainerroad.com/)
+- [wahoofitness.com > What is The SYSTM Training App?](https://www.wahoofitness.com/blog/what-is-systm/)
+- 
 
 - [artofmanliness.com > A Guide to the Biggest Thing Missing From Your Fitness Routine: Zone 2 Training](https://www.artofmanliness.com/health-fitness/fitness/zone-2-training/)
 - 
