@@ -5,7 +5,7 @@ aliases: []
 tags: []
 publish: true
 date created: Sunday, November 10th 2024, 2:29 pm
-date modified: Saturday, August 16th 2025, 10:42 pm
+date modified: Saturday, August 30th 2025, 1:15 pm
 ---
 
 - [ ] Content on staying healthy in an IT job ➕ 2024-11-10
@@ -49,4 +49,25 @@ date modified: Saturday, August 16th 2025, 10:42 pm
 
 - [gadgetbridge.org > Gadgetbridge](https://gadgetbridge.org/)
 	- Hook this up to your smart watch or other fitness tracking devices
-- 
+
+# Bike Trainers
+
+[Budget Zwift Setup Guide](../../⬇️%20Clippings/ChatGPT/Budget%20Zwift%20Setup%20Guide/Budget%20Zwift%20Setup%20Guide.md)
+
+- [Saris Smart Bike Trainers | Elevate Your Indoor Cycling Experience](https://saris.com/collections/smart-trainers "Saris Smart Bike Trainers | Elevate Your Indoor Cycling Experience")
+- [Garmin Tacx Indoor Bike Trainers](https://www.garmin.com/en-US/c/sports-fitness/indoor-trainers/?FILTER_FEATURE_BASICTRAINER=true#indoorcyclingproducts "Garmin Tacx Indoor Bike Trainers")
+- [Sale Items | Wahoo Fitness](https://www.wahoofitness.com/devices/sale "Sale Items | Wahoo Fitness")
+- [Sale Items | Wahoo Fitness](https://www.wahoofitness.com/devices/sale "Sale Items | Wahoo Fitness")
+- [KICKR CORE with Zwift ONE | Wahoo Fitness](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainer-bundles/zwift-bundles/kickr-core-zwift-one-buy "KICKR CORE with Zwift ONE | Wahoo Fitness")
+- [KICKR CORE Smart Trainer | Wahoo Fitness](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainer-bundles/zwift-bundles/kickr-core-zwift-buy "KICKR CORE Smart Trainer | Wahoo Fitness")
+- [Certified Reconditioned - KICKR MOVE | Wahoo Fitness](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/reconditioned-kickr-move-buy "Certified Reconditioned - KICKR MOVE | Wahoo Fitness")
+- [KICKR CORE K.O.M. Bundle | Wahoo Fitness](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainer-bundles/kickr-core-kom-bundle-buy "KICKR CORE K.O.M. Bundle | Wahoo Fitness")
+- [Zwift | The Indoor Cycling App for Smart Trainers &amp; Bikes](https://www.zwift.com/ "Zwift | The Indoor Cycling App for Smart Trainers &amp; Bikes")
+- [Zwift Ready Smart Trainers and Turbo Trainers](https://www.zwift.com/zwift-ready-smart-trainers "Zwift Ready Smart Trainers and Turbo Trainers")
+- [ZWIFT RIDE with KICKR CORE and ZWIFT RIDE SMART FRAME](https://www.zwift.com/zwift-ride-smart-bike "ZWIFT RIDE with KICKR CORE and ZWIFT RIDE SMART FRAME")
+- [Sale Items | Wahoo Fitness](https://www.wahoofitness.com/devices/sale "Sale Items | Wahoo Fitness")
+- [Equipment - Zwift](https://us.zwift.com/collections/equipment "Equipment - Zwift")
+- [VICTORY Smart Trainer with Zwift Cog &amp; Click - JetBlack Cycling](https://www.jetblackcycling.com/indoor-cycle-trainers-and-accessories/victory-smart-trainer/ "VICTORY Smart Trainer with Zwift Cog &amp; Click - JetBlack Cycling")
+- [Bike Trainers](https://www.magene.com/en/11-bike-trainer "Bike Trainers")
+- [CycleOps Magneto - Landis Cyclery](https://www.landiscyclery.com/articles/cycleops-magneto-pg435.htm "CycleOps Magneto - Landis Cyclery")
+- [Cadence Sensors &amp; RPM Sensors For Cycling | Wahoo Fitness](https://www.wahoofitness.com/devices/bike-sensors "Cadence Sensors &amp; RPM Sensors For Cycling | Wahoo Fitness")

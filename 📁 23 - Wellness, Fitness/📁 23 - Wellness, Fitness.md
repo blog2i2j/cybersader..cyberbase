@@ -1,10 +1,17 @@
 ---
-aliases: 
-tags: 
+permalink:
+title:
+aliases: []
+tags: []
 publish: true
 date created: Sunday, May 26th 2024, 12:21 pm
-date modified: Sunday, November 10th 2024, 2:28 pm
+date modified: Saturday, August 30th 2025, 1:33 pm
 ---
+
+# Safe Performance Enhancement Research
+
+- [Regeneron Licenses Weight Loss Drug and Shares Muscle Preservation Study Data as Bluebird Bio Goes Private - GeneOnline News](https://www.geneonline.com/regeneron-licenses-weight-loss-drug-and-shares-muscle-preservation-study-data-as-bluebird-bio-goes-private/ "Regeneron Licenses Weight Loss Drug and Shares Muscle Preservation Study Data as Bluebird Bio Goes Private - GeneOnline News")
+- [Regeneron | Pushing the Bounds of Science](https://www.regeneron.com/ "Regeneron | Pushing the Bounds of Science")
 
 # Wellness Plan and Schedule w/Research
 
